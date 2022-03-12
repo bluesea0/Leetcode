@@ -2,3 +2,5 @@
 /**/Debug/
 /**/.cproject
 /**/.project
+*.exe
+test.cpp
